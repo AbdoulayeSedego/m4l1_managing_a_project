@@ -1,13 +1,1 @@
-Crimson
-Orange
-Green
-Cyan
-Yellow
-Ivory
-Khaki
-Coral
-Silver
-Fuchsia
-Gray
-Brown
-Red
+This is a learning content. Improving my git and github skills
